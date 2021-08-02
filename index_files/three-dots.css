@@ -1590,7 +1590,7 @@
   background-color: black;
   color: transparent;
   margin: -1px 0;
-  filter: blur(2px);
+  /* filter: blur(2px); */
 }
 
 .dot-shuttle::before, .dot-shuttle::after {
@@ -1603,7 +1603,7 @@
   border-radius: 6px;
   background-color: black;
   color: transparent;
-  filter: blur(2px);
+  /* filter: blur(2px); */
 }
 
 .dot-shuttle::before {
@@ -1616,7 +1616,7 @@
   left: 30px;
 }
 
-/* @-webkit-keyframes dot-shuttle {
+@-webkit-keyframes dot-shuttle {
   0%,
   50%,
   100% {
@@ -1642,7 +1642,7 @@
   75% {
     transform: translateX(45px);
   }
-} */
+}
 
 /**
  * ==============================================
