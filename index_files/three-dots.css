@@ -1608,7 +1608,7 @@
 
 .dot-shuttle::before {
   left: 15px;
-  animation: dot-shuttle 5s infinite ease-out;
+  animation: dot-shuttle 5s 1 ease-out;
 }
 
 .dot-shuttle::after {
