@@ -1603,7 +1603,7 @@
   border-radius: 6px;
   background-color: black;
   color: transparent;
-  filter: blur(2px);
+  /* filter: blur(2px); */
 }
 
 .dot-shuttle::before {
