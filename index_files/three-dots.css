@@ -1608,7 +1608,7 @@
 
 .dot-shuttle::before {
   left: 15px;
-  animation: dot-shuttle 5s infinite ease-out;
+  animation: dot-shuttle 30s infinite ease-out;
 }
 
 .dot-shuttle::after {
@@ -1624,7 +1624,7 @@
   25% {
     transform: translateX(-45px);
   } */
-  75% {
+  96% {
     transform: translateX(45px);
   }
 }
