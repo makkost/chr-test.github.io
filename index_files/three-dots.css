@@ -1590,7 +1590,7 @@
   background-color: black;
   color: transparent;
   margin: -1px 0;
-  filter: blur(2px);
+  /* filter: blur(2px); */
 }
 
 .dot-shuttle::before, .dot-shuttle::after {
