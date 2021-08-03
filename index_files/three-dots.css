@@ -1611,9 +1611,9 @@
   animation: dot-shuttle 30s infinite ease-out;
 }
 
-.dot-shuttle::after {
+/* .dot-shuttle::after {
   left: 30px;
-}
+} */
 
 @keyframes dot-shuttle {
   0%,
