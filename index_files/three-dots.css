@@ -1590,7 +1590,7 @@
   background-color: black;
   color: transparent;
   margin: -1px 0;
-  /* filter: blur(2px); */
+  filter: blur(2px);
 }
 
 .dot-shuttle::before, .dot-shuttle::after {
@@ -1608,7 +1608,7 @@
 
 .dot-shuttle::before {
   left: 15px;
-  animation: dot-shuttle 30s infinite ease-out;
+  animation: dot-shuttle 5s infinite ease-out;
 }
 
 .dot-shuttle::after {
@@ -1624,7 +1624,7 @@
   25% {
     transform: translateX(-45px);
   } */
-  96% {
+  75% {
     transform: translateX(45px);
   }
 }
